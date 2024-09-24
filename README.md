@@ -2,8 +2,9 @@
 
 | Topic | Introduce |
 | :-: | :-:|
+| 1 | Greedy\Double Pointer|
 | 2 | Math idea|
-| 3 | Dynamic Programming|
+| 3 | Recursive\Dynamic Programming\Rolling Array|
 | 4 | Trinocular operator      Format in python |
 | 5 | Reverse string|
 | 6 | Dynamic Programming、hash|
